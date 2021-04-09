@@ -1,0 +1,20 @@
+NAME                                                       READY   STATUS             RESTARTS   AGE     IP              NODE                           NOMINATED NODE   READINESS GATES
+nonprodaccsuat3authkafka-969c756c4-c86lh                   1/1     Running            1          12d     10.244.27.28    dcwidvmgie020.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3authnode-ui-dealerportal-5c4fc4779d-csrfv   1/1     Running            0          7d19h   10.244.22.52    dcwidvmgie015.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3authsearch-app-master-69d9b4cfcb-jtprp      1/1     Running            0          9d      10.244.29.8     dcwidvmgie022.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3authts-app-64bd575bff-7qdpc                 0/1     CrashLoopBackOff   2196       7d19h   10.244.22.53    dcwidvmgie015.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3authts-app-6545c45b8f-8pmw4                 1/1     Running            0          9d      10.244.29.9     dcwidvmgie022.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3authts-scheduler-6dd54f8bfb-lsswh           1/1     Running            0          9d      10.244.20.143   dcwidvmgie013.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3authts-scheduler-77b4cb449d-plb4d           0/1     CrashLoopBackOff   2194       7d19h   10.244.30.64    dcwidvmgie023.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3authts-web-7794d4548f-z6jq9                 1/1     Running            0          9d      10.244.28.27    dcwidvmgie021.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3authzookeeper-59576c9d89-v4d9w              1/1     Running            0          12d     10.244.25.224   dcwidvmgie018.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3livekafka-64b66455c8-5m7v6                  1/1     Running            1          12d     10.244.27.32    dcwidvmgie020.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3livenode-ui-dealerportal-7688fb694b-vnqhb   1/1     Running            0          7d18h   10.244.15.43    dcwidvmgie012.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3livesearch-app-repeater-86b8c579d6-dcdmf    1/1     Running            1          9d      10.244.26.8     dcwidvmgie019.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3livesearch-app-slave-6dd65d699d-9lfzg       1/1     Running            0          9d      10.244.26.7     dcwidvmgie019.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3livets-app-67c969cbc7-zk9nh                 1/1     Running            0          9d      10.244.29.10    dcwidvmgie022.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3livets-app-8bf9d46f5-fvlx4                  0/1     CrashLoopBackOff   2196       7d18h   10.244.22.54    dcwidvmgie015.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3livets-scheduler-7fb48b5c6b-tnlxg           0/1     CrashLoopBackOff   2196       7d18h   10.244.22.55    dcwidvmgie015.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3livets-scheduler-84b9496776-nl62x           1/1     Running            0          9d      10.244.20.144   dcwidvmgie013.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3livets-web-78cf65577c-c5w7l                 1/1     Running            0          9d      10.244.28.28    dcwidvmgie021.epg.nam.gm.com   <none>           <none>
+nonprodaccsuat3livezookeeper-5f567c65df-rv7lm              1/1     Running            0          12d     10.244.25.228   dcwidvmgie018.epg.nam.gm.com   <none>           <none>
